@@ -15,7 +15,7 @@ public class PlayerManagement {
         try {
             // 1. Load existing players
             List<Player> players = new ArrayList<>();
-            if (file.exists()) {
+            if (file.exists() && file.length() > 0) {
                 players = mapper.readValue(file, new TypeReference<List<Player>>() {});
             }
 

@@ -1,0 +1,19 @@
+[ {
+  "playerId" : 1,
+  "name" : "Khoi",
+  "type" : "Double",
+  "win" : 0,
+  "lose" : 0
+}, {
+  "playerId" : 2,
+  "name" : "Tu",
+  "type" : "Double",
+  "win" : 0,
+  "lose" : 0
+}, {
+  "playerId" : 3,
+  "name" : "Quan",
+  "type" : "Single",
+  "win" : 0,
+  "lose" : 0
+} ]
