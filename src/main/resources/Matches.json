@@ -1,0 +1,45 @@
+[ {
+  "type" : "double",
+  "matchID" : 1,
+  "score1" : 0,
+  "score2" : 0,
+  "finished" : false,
+  "winnerID" : null,
+  "teams" : [ {
+    "teamID" : 2,
+    "teamName" : "Team AB",
+    "players" : [ {
+      "playerId" : 7,
+      "name" : "Nguyen Van A",
+      "type" : "Double",
+      "win" : 0,
+      "lose" : 0
+    }, {
+      "playerId" : 8,
+      "name" : "Nguyen Van B",
+      "type" : "Double",
+      "win" : 0,
+      "lose" : 0
+    } ],
+    "win" : 0,
+    "lose" : 0
+  }, {
+    "teamID" : 1,
+    "teamName" : "Superman",
+    "players" : [ {
+      "playerId" : 1,
+      "name" : "Nguyen Minh Khoi",
+      "type" : "Double",
+      "win" : 0,
+      "lose" : 0
+    }, {
+      "playerId" : 2,
+      "name" : "Huynh Tram Anh Tu",
+      "type" : "Double",
+      "win" : 0,
+      "lose" : 0
+    } ],
+    "win" : 0,
+    "lose" : 0
+  } ]
+} ]
